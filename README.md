@@ -7,7 +7,7 @@
      
   <img src="/images/drupal-download-1.png" width=60% height=60%>
   
-  3. Mark ***Payneteasy Payment** and click on *Install* button.
+  3. Mark **Payneteasy Payment** and click on *Install* button.
 
   <img src="/images/drupal-download-2.png" width=60% height=60%>
   <img src="/images/drupal-download-3.png" width=60% height=60%>
