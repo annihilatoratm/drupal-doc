@@ -1,5 +1,28 @@
+# [Plugin Editting Flow](https://github.com/annihilatoratm/drupal-doc/blob/main/doc-eng.md#payment-flow-1)
+
+  
+  1. Click on *Configuration* button -> *Performance* -> *clear all caches* to clear all caches.
+
+  <img src="/images/drupal-1-1-1.png" width=60% height=60%>
+  <img src="/images/drupal-1-4-2.png" width=60% height=60%>
+  <img src="/images/drupal-1-4-3.png" width=60% height=60%>
+
+  1. Click on *Commerce* button -> Configuration -> Payment Gateways. On this page new payment gateways can be added using *Add payment gateway*.
+
+  <img src="/images/drupal-1-1.png" width=60% height=60%>
+  <img src="/images/drupal-1-2.png" width=60% height=60%>
+  <img src="/images/drupal-1-3.png" width=60% height=60%>
+  <img src="/images/drupal-1-4-1.png" width=60% height=60%>
+  
+  2. Once Payneteasy plugin installed, there will be two payment methods: *paynet direct method* (for Direct on-site payment) and *paynet for method* (for Form off-site payment).
+
+  <img src="/images/drupal-1-4.png" width=60% height=60%>
+  <img src="/images/drupal-1-5.png" width=60% height=60%>
+  <img src="/images/drupal-1-6.png" width=60% height=60%>
+
 # [Payment Flow](https://github.com/annihilatoratm/drupal-doc/blob/main/doc-eng.md#payment-flow-1)
 
+  ## Plugin Editting Flow
   ## Payment Flow
 
   1. On the main page choose on of the required categories. Once product is selected, press on *Add to cart* button to start the payment process. Selected products can be find in *your cart* section that appear in the pop-up message above.
