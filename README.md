@@ -4,7 +4,7 @@
   1. Click on *Configuration* button -> *Performance* -> *clear all caches* to clear all caches.
 
   <img src="/images/drupal-1-1-1.png" width=60% height=60%>
-  <img src="/images/drupal-1-4-2.png" width=60% height=60%>
+  <img src="/images/drupal 1-4-2.png" width=60% height=60%>
   <img src="/images/drupal-1-4-3.png" width=60% height=60%>
 
   1. Click on *Commerce* button -> Configuration -> Payment Gateways. On this page new payment gateways can be added using *Add payment gateway*.
