@@ -1,6 +1,6 @@
-# [Plugin Handle Flow](https://github.com/annihilatoratm/drupal-doc/blob/main/doc-eng.md#payment-flow-1)
+# [Plugin Handle Flow](https://github.com/annihilatoratm/drupal-doc/blob/main/doc-eng.md#plugin-handle-flow)
 
-  ##Plugin Handle Flow
+  ## Plugin Handle Flow
   
   1. **Prerequisites**. Click on *Configuration* button -> *Performance* -> *clear all caches* to clear all caches.
 
