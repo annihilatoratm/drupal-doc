@@ -1,5 +1,17 @@
 # [Plugin Handle Flow](https://github.com/annihilatoratm/drupal-doc/blob/main/README.md#plugin-handle-flow-1)
 
+  ## Plugin download
+
+  1. Download Payneteasy plugin repository and copy it to site_directory/modules.
+  2. Click on *Extend* button to reach the plugin's list.
+     
+  <img src="/images/drupal-download-1.png" width=60% height=60%>
+  
+  3. Mark ***Payneteasy Payment** and click on *Install* button.
+
+  <img src="/images/drupal-download-2.png" width=60% height=60%>
+  <img src="/images/drupal-download-3.png" width=60% height=60%>
+
   ## Plugin Handle Flow
   
   1. **Prerequisites**. Click on *Configuration* button -> *Performance* -> *clear all caches* to clear all caches.
