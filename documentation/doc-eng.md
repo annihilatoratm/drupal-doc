@@ -1,6 +1,6 @@
-1. Plugin Download and Installation
-2. Plugin Configuration Flow
-3. Payment Flow
+1. #Plugin Download and Installation
+2. #Plugin Configuration Flow
+3. #Payment Flow
 
   # Plugin Download and Installation
 
