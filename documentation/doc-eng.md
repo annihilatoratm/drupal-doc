@@ -1,6 +1,6 @@
-1. # Plugin Download and Installation
-2. # Plugin Configuration Flow
-3. # Payment Flow
+1. [Plugin Download and Installation](https://github.com/annihilatoratm/drupal-doc/blob/main/documentation/doc-eng.md#plugin-download-and-installation-1)
+2. [Plugin Configuration Flow](https://github.com/annihilatoratm/drupal-doc/blob/main/documentation/doc-eng.md#plugin-configuration-flow-1)
+3. [Payment Flow](https://github.com/annihilatoratm/drupal-doc/blob/main/documentation/doc-eng.md#payment-flow-1)
 
   # Plugin Download and Installation
 
