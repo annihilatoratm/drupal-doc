@@ -1,55 +1,63 @@
-# [Plugin Handle Flow](https://github.com/annihilatoratm/drupal-doc/blob/main/README.md#plugin-handle-flow-1)
+1. Plugin Download and Installation
+2. Plugin Configuration Flow
+3. Payment Flow
 
-  ## Plugin download
+  # Plugin Download and Installation
 
-  1. Download Payneteasy plugin repository and copy it to site_directory/modules.
-  2. Click on *Extend* button to reach the plugin's list.
+  1. Download the Plugin. Download the **Payneteasy** plugin repository and copy its contents to the following directory: site_directory/modules.
+  2. Access Plugin List. Click the _Extend_ button in the admin menu to open the list of available plugins.
      
   <img src="/images/drupal-download-1.png" width=60% height=60%>
   
-  3. Mark **Payneteasy Payment** and click on *Install* button.
+  3. Install the Plugin. Locate **Payneteasy Payment** in the list and click the _Install_ button.
 
   <img src="/images/drupal-download-2.png" width=60% height=60%>
   <img src="/images/drupal-download-3.png" width=60% height=60%>
 
-  ## Plugin Handle Flow
+  # Plugin Configuration Flow
+
   
-  1. **Prerequisites**. Click on *Configuration* button -> *Performance* -> *clear all caches* to clear all caches.
+  1. Clear System Caches (Prerequisite). Navigate to:
+     * Configuration → Performance.
+  Click Clear all caches to ensure the system recognizes the newly added plugin.
 
   <img src="/images/drupal-1-1-1.png" width=60% height=60%>
   <img src="/images/drupal 1-4-2.png" width=60% height=60%>
   <img src="/images/drupal-1-4-3.png" width=60% height=60%>
 
-  2. **Add Payment Gateway**. Click on *Commerce* button -> Configuration -> Payment Gateways. On this page new payment gateways can be added using *Add payment gateway*.
+  2. Add a Payment Gateway. Go to:
+     * Commerce → Configuration → Payment Gateways.
+  Click **Add payment gateway** to begin the setup process.
 
   <img src="/images/drupal-1-1.png" width=60% height=60%>
   <img src="/images/drupal-1-2.png" width=60% height=60%>
   <img src="/images/drupal-1-3.png" width=60% height=60%>
   <img src="/images/drupal-1-4-1.png" width=60% height=60%>
   
-  3. **Configure Payment Gateway**. Once Payneteasy plugin installed, there will be two payment methods: *paynet direct method* (for Direct on-site payment) and *paynet form method* (for Form off-site payment).
+  3. Configure Payment Gateway. Once the **Payneteasy** plugin is installed, two payment options will be available:
+     * Paynet direct method – for direct on-site payments.
+     * Paynet form method – for off-site (redirect) form-based payments.
 
   <img src="/images/drupal-1-4.png" width=60% height=60%>
   <img src="/images/drupal-1-5.png" width=60% height=60%>
   <img src="/images/drupal-1-6.png" width=60% height=60%>
 
-# [Payment Flow](https://github.com/annihilatoratm/drupal-doc/blob/main/doc-eng.md#payment-flow-1)
+  # Payment Flow
 
-  ## Payment Flow
+  1. Select a Product. On the homepage, browse and select a product category. After choosing a product, click **Add to Cart**. A pop-up will confirm the addition and provide a link to **Your Cart**.
 
-  1. On the main page choose on of the required categories. Once product is selected, press on *Add to cart* button to start the payment process. Selected products can be find in *your cart* section that appear in the pop-up message above.
   <img src="/images/drupal-1.png" width=60% height=60%>
   <img src="/images/drupal-2.png" width=60% height=60%>
   
-  2. Click on *Checkout* button to continue the payment. 
+  2. Proceed to Checkout. Click the Checkout button to begin the checkout process.
 
   <img src="/images/drupal-3.png" width=60% height=60%>
 
-  3.  In the **Order information** page in **Payment method** section *PsynetEasyForm* payment gateway has to be chosen. Continue the process by clicking on *Continue to review* button. On the **Review** page click on *Pay and complete purchase* to continue.
+  3.  Choose Payment Method. On the **Order Information** page, scroll to the **Payment Method** section and select **PsynetEasyForm** form as your gateway. Click Continue to Review, then on the Review page, click _Pay_ and _Complete Purchase_.
 
   <img src="/images/drupal-4.png" width=60% height=60%>
   <img src="/images/drupal-5.png" width=60% height=60%>
 
-  4. Fill all required parameters on the form and press the *Process payment* button to finish the payment process.
+  4. Complete the Payment. Fill in all required fields in the payment form and click _Process Payment_ to finalize the transaction.
 
   <img src="/images/drupal-6.png" width=60% height=60%>
