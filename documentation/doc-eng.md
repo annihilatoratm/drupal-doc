@@ -1,4 +1,4 @@
-# PaynetEasy Payment Plugin for OsCommerce 4
+# PaynetEasy Payment Plugin for Drupal
 
 # 1. [Plugin Download and Installation](https://github.com/annihilatoratm/drupal-doc/blob/main/documentation/doc-eng.md#plugin-download-and-installation-1)
 # 2. [Plugin Configuration](https://github.com/annihilatoratm/drupal-doc/blob/main/documentation/doc-eng.md#plugin-configuration-flow-1)
