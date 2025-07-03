@@ -2,7 +2,7 @@
 
 # 1. [Plugin Download and Installation](https://github.com/annihilatoratm/drupal-doc/blob/main/documentation/doc-eng.md#plugin-download-and-installation-1)
 # 2. [Plugin Configuration](https://github.com/annihilatoratm/drupal-doc/blob/main/documentation/doc-eng.md#plugin-configuration-flow-1)
-# 3. [Payment Processing](https://github.com/annihilatoratm/drupal-doc/blob/main/documentation/doc-eng.md#payment-flow-1)
+# 3. [Payment Processing](https://github.com/annihilatoratm/drupal-doc/blob/main/documentation/doc-eng.md#3-payment-processing-1)
 
 ## 1. Plugin Download and Installation
 
