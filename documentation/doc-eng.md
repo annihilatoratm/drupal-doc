@@ -44,7 +44,7 @@ Click Clear all caches to ensure the system recognizes the newly added plugin.
 
 # 3. Payment Processing
 
-3.1. Select a Product. On the homepage, browse and select a product category. After choosing a product, click **Add to Cart**. A pop-up will confirm the addition and provide a link to **Your Cart**.
+3.1. Select a Product from [Product's List](https://drupal.codetime.net/en/product). On the homepage, browse and select a product category. After choosing a product, click **Add to Cart**. A pop-up will confirm the addition and provide a link to **Your Cart**.
 
 <img src="/images/drupal-1.png" width=60% height=60%>
 <img src="/images/drupal-2.png" width=60% height=60%>
